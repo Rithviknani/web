@@ -2,7 +2,7 @@
 @media not|only mediatype and (expressions) {
   CSS-Code;
 }
-<link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
+
 *{
   margin: 0;
   padding: 0;
@@ -123,11 +123,11 @@ font-size: 7em;
 /* Centered text */
 .semicentered {
   position: absolute;
-  font-size: 2em;
-  top: 195%;
+  font-size: 3em;
+  top: 175%;
   left: 45%;
   transform: translate(-50%, -50%);
 }
-
+<link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
 
 
