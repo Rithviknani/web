@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
-@media not|only mediatype and (expressions) {
-  CSS-Code;
-}
+
 
 *{
   margin: 0;
@@ -124,10 +122,10 @@ font-size: 7em;
 .semicentered {
   position: absolute;
   font-size: 3em;
-  top: 175%;
+  top: 188%;
   left: 45%;
   transform: translate(-50%, -50%);
 }
-<link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
+
 
 
