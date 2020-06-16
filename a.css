@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 
-
 *{
   margin: 0;
   padding: 0;
@@ -62,15 +61,14 @@ img.avatar {
   border-radius: 10%;
  
 }
+
 @media (max-width: 952px){
   label.logo{
     font-size: 27px;
     padding-left: 25px;
-
-  }
-  nav ul li a{
+}
+nav ul li a{
     font-size: 22px;
-
   }
 }
 @media (max-width: 858px){
@@ -126,6 +124,9 @@ font-size: 7em;
   left: 45%;
   transform: translate(-50%, -50%);
 }
+
+
+
 
 
 
